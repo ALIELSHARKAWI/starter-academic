@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ali Elsharkawi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Clinical Cardiac Electrophysiologist and Candidate Msc in Clinical reseach
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.case.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Cardiology and Electrophysiology.
 
 # Interests to show in About widget
 interests:
