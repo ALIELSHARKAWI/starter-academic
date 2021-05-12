@@ -25,8 +25,11 @@ interests:
 education:
   courses:
   - course: MD OF Medicine in Cardiology
-    institution: Ain Shams University: 2012
-  - course: Candidate of Msc in Clinical Research: 2020-
+    institution: Ain Shams University
+    year: 2012
+  - course: Candidate of Msc in Clinical Research
+    institution: Ain Shams University
+    year: 2020
 
 
 # Social/Academic Networking
