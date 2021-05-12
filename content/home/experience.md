@@ -42,7 +42,7 @@ experience:
     company_logo: org-x
     location: Cairo ,Egypt
     date_start: '2003-03-24'
-    date_end: 'Until now'
+    date_end: '2017-10-01'
     description: Cardiology including interventional and electrophysiology.
 
 design:
