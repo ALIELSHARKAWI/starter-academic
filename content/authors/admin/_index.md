@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'link: 'mailto:ali.elsharkawi@yahoo.com''
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ElsharkawiAli
@@ -48,7 +48,7 @@ social:
   link: https://github.com/ALIELSHARKAWI
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/ali-elsharkawi-bbb5291b5/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
