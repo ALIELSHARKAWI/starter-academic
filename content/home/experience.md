@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Electrophysiology
+    company: Case Western Reserve / Metrohealth
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Cleveland, ohio
+    date_start: '2019-07-01'
+    date_end: '2021-06-30'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Electrophysiology consults
+        * Mapping and ablation 
+        * Device therapy
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Lecturer of cardiology
+    company: National Heart Institute
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Cairo ,Egypt
+    date_start: '2003-03-24'
+    date_end: 'Until now'
+    description: Cardiology including interventional and electrophysiology.
 
 design:
   columns: '2'
