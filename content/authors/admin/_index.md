@@ -69,6 +69,7 @@ highlight_name: false
 
 Ali Elsharkawi is a Clinical Cardiac Electrophysiologist at Case Western Reserve / Metrohealth, interested in clinical research, experience in crdiac interventional and electrophysiology procedures.  
 
-د.علي الشرقاوي كهروفسيولجي القلب بجامعه كيس واسترن - متروهلس ، عمل كاستشاري قلب بمعهد القلب القومي ، خبره بالقسطره التداخليه ، البحث العلمي
+د.علي الشرقاوي كهروفسيولجي القلب بجامعه كيس واسترن - متروهلس
+عمل كاستشاري قلب بمعهد القلب القومي ، خبره بالقسطره التداخليه ، البحث العلمي
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
