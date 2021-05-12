@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'link: 'mailto:ali.elsharkawi@yahoo.com''
+  link: 'link: 'mailto:ali.elsharkawi@yahoo.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ElsharkawiAli
