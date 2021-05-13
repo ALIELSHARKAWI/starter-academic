@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 100%
-  icon: "Electrophysiology.png"
+  icon: "Electrophysiology"
   icon_pack: "custom"
   name: Electrophysiology
 
