@@ -30,7 +30,7 @@ education:
     institution: Ain Shams University
     year: 2012
   - course: Candidate of Msc in Clinical Research
-    institution: Ain Shams University
+    institution: Case Western Reserve University
     year: 2020
 
 
