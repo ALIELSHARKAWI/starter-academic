@@ -19,12 +19,13 @@ organizations:
 bio: My research interests include Cardiology and Electrophysiology.
 
 # Interests to show in About widget
-interests:
+<center> interests:
 - Cardiology , intervention and Electrophysiology
 - Clinical Research
+</center> 
 
 # Education to show in About widget
-education:
+<center> education:
   courses:
   - course: MD OF Medicine in Cardiology
     institution: Ain Shams University
@@ -32,7 +33,7 @@ education:
   - course: Candidate of Msc in Clinical Research
     institution: Ain Shams University
     year: 2020
-
+</center> 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
