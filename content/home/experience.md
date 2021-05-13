@@ -25,7 +25,7 @@ experience:
   - title: Electrophysiology
     company: Case Western Reserve / Metrohealth
     company_url: ''
-    company_logo: metrohealth.jpeg
+    company_logo: Metro
     location: Cleveland, ohio
     date_start: '2019-07-01'
     date_end: '2021-06-30'
@@ -39,7 +39,7 @@ experience:
   - title: Lecturer of cardiology
     company: National Heart Institute
     company_url: ''
-    company_logo: NHI.jpeg
+    company_logo: NHI
     location: Cairo ,Egypt
     date_start: '2003-03-24'
     date_end: '2017-10-01'
@@ -48,7 +48,7 @@ experience:
   - title: Cardiology Senior Registrar
     company: Al Mouwasat Hospital
     company_url: ''
-    company_logo: Almouwasat.jpeg
+    company_logo: Almouwasat
     location: Riyadh, KSA
     date_start: '2017-10-10'
     date_end: '2019-05-28'
