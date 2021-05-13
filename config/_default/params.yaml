@@ -20,13 +20,13 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: dr.ali.elsharkawi.cardiology@gmail.com
+phone: +14197374141
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 2500 Metrohealth drive
+  city: Cleveland
+  region: OH
+  postcode: '44109'
   country: United States
   country_code: US
 coordinates:
@@ -41,11 +41,11 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/ElsharkawiAli'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'skype:ali.elsharkawi'
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
@@ -68,7 +68,7 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: 'May 13, 2021'
 time_format: '3:04 PM'
 address_format: en-us
 
