@@ -66,6 +66,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+\center Centered Text \center
 
 Ali Elsharkawi is a Clinical Cardiac Electrophysiologist at Case Western Reserve / Metrohealth
 
