@@ -6,7 +6,8 @@ title: Ali Elsharkawi
 superuser: true
 
 # Role/position/tagline
-role: Clinical Cardiac Electrophysiologist and Candidate Msc in Clinical reseach
+role: Clinical Cardiac Electrophysiologist
+Candidate Msc in Clinical reseach
 
 # Organizations/Affiliations to show in About widget
 organizations:
