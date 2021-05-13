@@ -24,10 +24,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 100%
-  icon: Electrophysiology
-  icon_pack: custom
-  name: Electrophysiology
+- description: "100%"
+  icon: "Electrophysiology"
+  icon_pack: "custom"
+  name: "Electrophysiology"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
