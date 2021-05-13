@@ -12,6 +12,8 @@ role: Clinical Cardiac Electrophysiologist and Candidate Msc in Clinical reseach
 organizations:
 - name: Case Western Reserve University
   url: https://www.case.edu/
+- name: Metrohealth
+  url: https://www.metrohealth.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Cardiology and Electrophysiology.
