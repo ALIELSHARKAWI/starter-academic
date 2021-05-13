@@ -78,6 +78,6 @@ Experience in cardiac interventional and electrophysiology procedures.
 
 عمل كاستشاري قلب بمعهد القلب القومي ، خبره بالقسطره التداخليه ، البحث العلمي
  
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv2021_AliElsharkawi.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
  </center>
