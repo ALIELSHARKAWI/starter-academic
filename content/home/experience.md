@@ -28,7 +28,7 @@ experience:
     company_logo: Metro
     location: Cleveland, ohio
     date_start: '2019-07-01'
-    date_end: '2021-06-30'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
