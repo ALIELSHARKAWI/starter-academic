@@ -25,8 +25,8 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 100%
-  icon: camera-retro
-  icon_pack: fas
+  icon: "Electrophysiology.png"
+  icon_pack: "custom"
   name: Electrophysiology
 
 # Uncomment to use emoji icons.
