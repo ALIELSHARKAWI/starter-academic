@@ -7,9 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Skills
-    url: '#skills'
-    weight: 20
+#  - name: Skills
+#    url: '#skills'
+#    weight: 20
 #  - name: Publications
 #    url: '#Featured'
 #    weight: 30
