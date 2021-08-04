@@ -6,7 +6,7 @@ title: Ali Elsharkawi
 superuser: true
 
 # Role/position/tagline
-role: Clinical Cardiac Electrophysiologist & Candidate Msc in Clinical reseach
+role: Clinical Cardiac Electrophysiologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,9 +29,9 @@ education:
   - course: MD OF Medicine in Cardiology
     institution: Ain Shams University
     year: 2012
-  - course: Candidate of Msc in Clinical Research
-    institution: Case Western Reserve University
-    year: 2020
+  - course: Clinical Cardiac Electrophysiology 
+    institution: Case Western Reserve University / Metrohealth
+    
 
 
 # Social/Academic Networking
